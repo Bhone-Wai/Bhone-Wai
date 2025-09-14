@@ -26,35 +26,6 @@
 
 ---
 
-## 🚀 **Featured Projects**
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 Torus</h3>
-      <div align="center">  
-        <a href="https://github.com/Bhone-Wai/Torus" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhone-Wai&repo=Torus&theme=tokyonight" />
-        </a>
-        <br>
-        <p><strong>E-commerce Management Platform</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">💰 Ellipse</h3>
-      <div align="center">
-        <a href="https://github.com/Bhone-Wai/ellipse" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhone-Wai&repo=ellipse&theme=tokyonight" />
-        </a>
-        <br>
-        <p><strong>Personal Finance Tracker</strong></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🔥 **Contribution Streak**
 
 <div align="center">
