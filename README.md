@@ -1,6 +1,6 @@
 # Hi there! I'm <span style="color: #61dafb;">Bhone Wai</span> 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Amazing+Web+Apps&font=Fira%20Code&width=380&height=50&duration=4000&pause=1000">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=An+Ordinary+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Amazing+Web+Apps&font=Fira%20Code&width=380&height=50&duration=4000&pause=1000">
 
 🛠️ Tech Stack
 <div>
