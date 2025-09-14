@@ -9,11 +9,4 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhone-Wai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhone-Wai&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhone-Wai&theme=tokyonight&hide_border=true" />
-
 <img src="https://komarev.com/ghpvc/?username=Bhone-Wai&color=blueviolet&style=flat-square&label=Profile+Views" />
